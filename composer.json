@@ -2,7 +2,7 @@
     "name": "play/template",
     "description": "Play Template",
     "keywords": ["template", "composer", "package"],
-    "license": "DBAD",
+    "license": "MIT",
     "authors": [
         {
             "name": "Anderson Ismael"
